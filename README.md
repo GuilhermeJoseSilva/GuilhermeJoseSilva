@@ -154,7 +154,7 @@ Hi, my name is Guilherme José da Silva. I'm 21 years old and based in Curitiba,
 ### 📊 Estatísticas
 
 <p>
-  <<img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
