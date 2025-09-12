@@ -148,6 +148,22 @@ Hi, my name is Guilherme José da Silva. I'm 21 years old and based in Curitiba,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+/>
 <br/>
 <br/>
 
