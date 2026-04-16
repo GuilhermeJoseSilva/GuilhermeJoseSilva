@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-Hi, my name is Guilherme José da Silva. I'm 21 years old and based in Curitiba, Brazil. I hold a degree in Systems Analysis and Development from Universidade Positivo and am currently pursuing a postgraduate specialization in Software Architecture at PUCPR. I'm continuously studying and exploring new technologies, with a focus on DevOps and full-stack development.
+Hi, my name is Guilherme José da Silva. I'm 21 years old and based in Curitiba, Brazil. I hold a degree in Systems Analysis and Development from Universidade Positivo and am currently pursuing a postgraduate specialization in Software Architecture at PUCPR. I'm continuously studying and exploring new technologies, with a focus on DevOps and full-stack development. <br>
 I’m continuously studying and exploring new technologies, with a focus on DevOps, distributed systems, and event-driven architectures using tools like Apache Kafka.
 
 <p align="left">
@@ -165,6 +165,14 @@ I’m continuously studying and exploring new technologies, with a focus on DevO
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Apache Kafka" 
+    title="Apache Kafka"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" 
+/>
 <br/>
 <br/>
 
@@ -184,15 +192,6 @@ I’m continuously studying and exploring new technologies, with a focus on DevO
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeJoseSilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-<img 
-    align="left" 
-    alt="Apache Kafka" 
-    title="Apache Kafka"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" 
 />
 
 </p>
