@@ -2,7 +2,7 @@
 
 **`Full-stack Developer`**
 
-Hi, my name is Guilherme José da Silva. I'm 21 years old and based in Curitiba, Brazil. I hold a degree in Systems Analysis and Development from Universidade Positivo and am currently pursuing a postgraduate specialization in Software Architecture at PUCPR. I'm continuously studying and exploring new technologies, with a focus on DevOps and full-stack development. <br>
+Hi, my name is Guilherme José da Silva. I'm 22 years old and based in Curitiba, Brazil. I hold a degree in Systems Analysis and Development from Universidade Positivo and am currently pursuing a postgraduate specialization in Software Architecture at PUCPR. I'm continuously studying and exploring new technologies, with a focus on DevOps and full-stack development. <br>
 I’m continuously studying and exploring new technologies, with a focus on DevOps, distributed systems, and event-driven architectures using tools like Apache Kafka.
 
 <p align="left">
